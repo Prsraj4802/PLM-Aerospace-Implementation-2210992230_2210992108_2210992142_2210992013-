@@ -35,7 +35,7 @@ The project demonstrates how PLM integrates product data, processes, and systems
 
 ## 🚀 Current Status
 
-Completed / In Progress (Edit as needed)
+Completed
 
 ---
 

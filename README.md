@@ -1,36 +1,45 @@
-# Implementation of PLM in the Aerospace Industry: A Digital Thread Approach
+# Implementation of PLM in the Aerospace Industry
 
-**Project Type:** Research Paper
-**Current Status:** Proof of Submission and Research Completed (Report and PPT to be added soon)
+## 📌 Project Overview
 
-## Team Details
+This project focuses on the implementation of Product Lifecycle Management (PLM) in the aerospace industry using a Digital Thread and multi-layered architecture approach.
 
-| Name               | Roll Number         |
-| :----------------- | :------------------ |
-| [Student 1 Name]   | 2210992230          |
-| [Student 2 Name]   | 2210992108          |
-| [Student 3 Name]   | 2210992142          |
-| [Student 4 Name]   | 2210992013          |
+## 👨💻 Team Details
 
-## 1. IPR Submission Proof
+* Purushotam Kumar (2210992108)
+* Salil (2210992230)
+* Ravinder Singh Tiwana (2210992142)
+* Palak (2210992013)
 
-- **Research Paper:** [Implementation of PLM in the Aerospace Industry A Digital Th1_final.pdf](<1. IPR Submission Proof/Implementation of PLM in the Aerospace Industry A Digital Th1_final.pdf>)
-- **Submission Screenshots:**
-  - ![Proof 1](<1. IPR Submission Proof/Proof1.PNG>)
-  - ![Proof 2](<1. IPR Submission Proof/Proof2.PNG>)
-  - ![Proof 3](<1. IPR Submission Proof/Proof3.jpeg>)
+## 🎯 Project Type
 
-## 2. Report and PPT
+Research Project / IPR Submission
 
-*Final project report file and Presentation (PPT) will be uploaded in this section later.*
+## 📂 Repository Contents
 
-## 3. Source Code
+* IPR Submission Proof (Research Paper / Screenshot)
+* Project Report and Presentation
+* Source Code Implementation
+* Documentation
 
-Group-wise source code for Teamcenter ITK server-side customization has been placed into the `3. Source Code` directory.
+## ⚙️ Technologies Used
+
+* PLM (Teamcenter)
+* Digital Thread
+* Digital Twin
+* MBSE (Model-Based Systems Engineering)
+
+## 📊 Project Description
+
+The project demonstrates how PLM integrates product data, processes, and systems across the lifecycle, ensuring a single source of truth, improved traceability, and efficient aerospace product management.
+
+## 🚀 Current Status
+
+Completed / In Progress (Edit as needed)
 
 ---
 
-## ITK Programs Batch Utility Results
+## Result :- Screenshot
 
 ### 1) Login 
 

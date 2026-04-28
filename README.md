@@ -33,10 +33,6 @@ Research Project / IPR Submission
 
 The project demonstrates how PLM integrates product data, processes, and systems across the lifecycle, ensuring a single source of truth, improved traceability, and efficient aerospace product management.
 
-## 🚀 Current Status
-
-Completed
-
 ---
 
 ## Result :- Screenshot
